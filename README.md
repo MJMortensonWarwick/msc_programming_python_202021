@@ -1,2 +1,2 @@
-# msc_programming_python_202021
+# MSc Programming Python 2020/21
 Notebooks and data associated with the 2020/21 Workbook
